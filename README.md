@@ -1,16 +1,21 @@
-### Hi there 👋
+<h3> Hi! :wave: I'm Lauren Cunningham.</h3>
 
-<!--
-**laurencun/laurencun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack web developer in Chicago <br/>
+:mortar_board: Flatiron School Graduate <br/>
+Practicing Ruby and Javascript <br/>
+Projects utilize Rails back-end and React front-end <br/>
+:mag_right: Currently seeking full-time remote opportunites <br/>
 
-Here are some ideas to get you started:
+When I'm not coding I like to stay active by boxing 🥊 , snowboarding :snowboarder: , and cooking healthy meals :fork_and_knife:.<br/>
+I love to push my own limits and test my potential by trying new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>:sparkles: 2021 goals</h3>
+<ol>
+Contribute to more open-source projects <br/>
+Volunteer work with Girls Who Code <br/>
+Learn at least one new thing everyday <br/>
+</ol>
+
+<h3> Let's get connected! </h3>
+LinkedIn:https://www.linkedin.com/in/lauren-cun/
+Blog:https://lauren-cun.medium.com/
