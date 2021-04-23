@@ -17,5 +17,5 @@ Learn at least one new thing everyday <br/>
 </ol>
 
 <h3> Let's get connected! </h3>
-LinkedIn:https://www.linkedin.com/in/lauren-cun/
+LinkedIn:https://www.linkedin.com/in/lauren-cun/<br/>
 Blog:https://lauren-cun.medium.com/
